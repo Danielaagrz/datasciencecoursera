@@ -1,9 +1,7 @@
-# datasciencecoursera
-
-Human Activity Recognition Using Smartphones Data Set 
+**Human Activity Recognition Using Smartphones Data Set**
 Data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Files:
+**Files:**
 
 "CodeBook.md" - File in which each information about the data, the variables and the steps taken to analyze the date are described.
 
